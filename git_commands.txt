@@ -1,0 +1,133 @@
+ 1  cd
+    2  ls
+    3  cd project1
+    4  git status
+    5  git init
+    6  git status
+    7  cat a.txt
+    8  cd d:
+    9  mkdir gitprojects
+   10  cd gitprojects
+   11  mkdir project1
+   12  cd project1
+   13  git init
+   14  git status
+   15  cat a.txt
+   16  a.txt
+   17  pwd
+   18  ls - la
+   19  ls -la
+   20  git --version
+   21  git -version
+   22  git --version
+   23  mkdir devops-for-git-practice
+   24  cd
+   25  ls
+   26  touch testing.py
+   27  ls
+   28  ls -l
+   29  cd  github-for-devops-workshop
+   30  cd ..
+   31  cd  github-for-devops-workshop/
+   32  mkdir github-for-devops-workshop/
+   33  ls
+   34  ls l
+   35  ls -l
+   36  cd github-for-devops-workshop/
+   37  touch testing.py
+   38  ls
+   39  ls -l
+   40  rm testing.py
+   41  ls
+   42  git init
+   43  ls -l
+   44  ls -a
+   45  git status
+   46  ls
+   47  dir
+   48  touch testing.py
+   49  ls
+   50  ls -l
+   51  git  status
+   52  git status
+   53  git add testing.py
+   54  git status
+   55  git rm --cache
+   56  git rm --cache testing.py
+   57  ls
+   58  git status
+   59  git add.
+   60  git add .
+   61  git status
+   62  git commit -m "added testing files"
+   63  git status
+   64  rm testing.py
+   65  ls
+   66  ls -l
+   67  git status
+   68  git restore testing.py
+   69  ls
+   70  git status
+   71  clear
+   72  touch git_commands.txt
+   73  ls
+   74  git status
+   75  git add git_commands.txt
+   76  git status
+   77  git commit -m "added git_commands.txt gile"
+   78  git status
+   79  git remote add origin https://github.com/Kajalkh/github-for-devops-workshop.git
+   80  git remote -v
+   81  git status
+   82  git remote set-url origin /Kajalkh/github-for-devops-workshop.git
+   83  git remote -v
+   84  git push origin master
+   85  git status
+
+ 86  ls
+   87  history
+   88  git status
+   89  cd document
+   90  cd document/
+   91  clear
+   92  cd..
+   93  cd/
+   94  cd .
+   95  cd ..
+   96  mkdir git-demo-new
+   97  ls
+   98  mkdir git-demo-new/
+   99  ls
+  100  cd  git-demo-new/
+  101  git clone https://github.com/Kajalkh/github-for-devops-workshop.git
+  102  ls
+  103  cd github-for-devops-workshop/
+  104  ls
+
+
+*** Push from Local to remote (Github) 
+  mkdir practice
+  113  cd practice
+  114  touch localtopush
+  115  ls
+  116  git add localtpush
+  117  git add localtopush
+  118  git init
+  119  git add localtopush
+  120  ls
+  121  ls -a
+  122  git status
+  123  git commit -m "Added  local  to push file for practice"
+  124  git staus
+  125  git status
+  126  git remote -v
+  127  git remote add origin https://git remote add origin https://github.com/Kajalkh/practice.git
+  128  git remote add origin https://github.com/Kajalkh/practice.git
+  129  git status
+  130  git remote -v
+  131  git remote set-url origin /Kajalkh/practice.git
+  132  git remote -v
+  133  git push origin master
+  134  git status
+  135  history
+
